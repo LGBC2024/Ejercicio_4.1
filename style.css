@@ -1,0 +1,27 @@
+nav ul li a{
+    color: red;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: green;
+}
+
+a{
+    color: inherit;
+}
+
+h1 {
+    color: blue !important;
+}
+
+h1 {
+    color: burlywood
+}
+
+.padre #hijo {
+    color: red
+}
