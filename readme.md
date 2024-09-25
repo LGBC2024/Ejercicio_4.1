@@ -99,3 +99,34 @@ h1 {
 
 <!-- IMPORTANT (infinito) -->
 ```
+
+# ESTILO DE TEXTO
+
+- fonts.google.com para descargar tipos de fuentes y tipografias
+- font-face css (mdn)
+
+
+## PROPIEDADES
+
+- color
+- font-size (em, rem, px)
+- font-weight
+- font-family (google font, font-face)
+- estilo entre navegadores (normalize.css)
+- text-transform: uppercase / lowercase / capitalize
+- text-align: left / center / right
+- letter-spacing: 
+- word-spacing:
+- text-decoration: none / underline
+
+## SELECTORES
+
+- selector de etiqueta
+- selector de clase
+- selector de ID
+- selector universal (uso box model)
+
+<!-- Actualizar el repositorio con lo visto en la 2da parte
+  1) Explicar los conceptos con ejemplos
+  2) (Agregar una nueva tipografia de google fonts, usando font-face)
+-->

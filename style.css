@@ -1,10 +1,48 @@
+
+/*
+* {
+    color: blue !important;
+    margin: 0;
+}
+*/
+
+
 nav ul li a{
     color: red;
 }
 
-h1 {
-    color: red;
+body {
+    background-color: #ebdddd;
+    font-size: 20px;
 }
+
+h2 {
+    color: red;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+
+    text-transform: uppercase;
+    /*text-transform: lowercase;*/
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+    /* 300 es como lighter */
+
+
+    /* un px es la unidad de medida para los tamaños
+    px: unidad absoluta o unidad de medida
+    em: unidad del ancestro (sino se especifica es 16)
+    rem: unidad de la etiqueta html
+    */
+}
+
+#principalID {
+    color: green;
+}
+
 
 p {
     color: green;
@@ -24,4 +62,8 @@ h1 {
 
 .padre #hijo {
     color: red
+}
+
+.principalTitle {
+    color: peru;
 }
